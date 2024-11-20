@@ -1,0 +1,4 @@
+easygui>=0.98.3
+pyperclip>=1.8.2
+python-xlib>=0.27
+typing-extensions>=4.0.0
